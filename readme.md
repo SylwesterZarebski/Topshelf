@@ -3,9 +3,6 @@ Topshelf - An easy service hosting framework for building Windows services using
 
 Topshelf is a framework for hosting services written using the .NET framework. The creation of services is simplified, allowing developers to create a simple console application that can be installed as a service using Topshelf. The reason for this is simple: It is far easier to debug a console application than a service. And once the application is tested and ready for production, Topshelf makes it easy to install the application as a service.
 
-### Develop build
-[![Build status](https://ci.appveyor.com/api/projects/status/cjlqe1lg0733c936/branch/develop?svg=true)](https://ci.appveyor.com/project/phatboyg/topshelf)
-
 # LICENSE
 Apache 2.0 - see LICENSE
 
@@ -59,7 +56,7 @@ The [Windows Service Manager](https://marketplace.visualstudio.com/items?itemNam
 To run the build, a Visual Studio 2015 compatible environment should be setup.
 
 # CREDITS
-Logo Design by [The Agile Badger](http://www.theagilebadger.com)
+Logo Design by [The Agile Badger]
 
 Copyright 2007-2016 Travis Smith, Chris Patterson, Dru Sellers, Henrik Feldt et al. All rights reserved
 
